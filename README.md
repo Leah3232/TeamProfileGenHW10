@@ -11,7 +11,7 @@ npm i
 node index.js
 ```
 Video Demonstration: 
-[Video Demonstrating Program Use]()
+[Video Demonstrating Program Use] Refer to file in my CODE!
 
 ## Built With
 - HTML
@@ -22,8 +22,8 @@ Video Demonstration:
 - Jest
 
 ## Contact
-- [Live Project Link]()
-- [GitHub Repository]()
+- [Live Project Link](https://leah3232.github.io/TeamProfileGenHW10/dist/team.html)
+- [GitHub Repository](git@github.com:Leah3232/TeamProfileGenHW10.git)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
